@@ -1,0 +1,19 @@
+form{
+	margin:auto;
+	max-width:80%;
+	height: 50%;
+	background:rgba(213,146,0,0.2);
+	padding: 1px;
+	border: 1px solid rgba(0,0,0,0);
+	border-radius:2%;
+	margin-top: 30px;
+	position: absolute;
+	margin-left: 330px;
+}
+.bodyy{
+	margin:auto;
+	width: 960px;
+	height: 600px;
+	background-color: #fff;
+	}
+	
